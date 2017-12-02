@@ -4,19 +4,19 @@
 
 #### General
 
-[ ] DepOps
-[ ] Extreme Programming
+- [ ] DepOps
+- [ ] Extreme Programming
 
 #### Methodologies
 
-[ ] VCS : Version control
-[ ] CI : Constinuous Integration
-[ ] CD : Continuous Delivery
-[ ] CD : Continuous Deployment
+- [ ] VCS : Version control
+- [ ] CI : Constinuous Integration
+- [ ] CD : Continuous Delivery
+- [ ] CD : Continuous Deployment
 
 #### XaaY
 
-[ ] SaaS : Software as a Service
-[ ] PaaS : Platform as a Service
-[ ] IaaS : Infrastructure as a Service
-[ ] IaaC : Infrastructure as Code
+- [ ] SaaS : Software as a Service
+- [ ] PaaS : Platform as a Service
+- [ ] IaaS : Infrastructure as a Service
+- [ ] IaaC : Infrastructure as Code
