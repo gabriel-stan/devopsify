@@ -26,7 +26,6 @@
 - [ ] Gradle
 - [ ] Ant
 - [ ] Make
-- [ ] 
 
 #### Build Server
 
@@ -51,8 +50,6 @@
 - [ ] Bamboo
 
 #### Pipeline Orchestration
-
-- [ ] 
 
 #### Test Automation
 
