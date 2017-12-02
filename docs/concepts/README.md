@@ -1,10 +1,10 @@
 # DevOps Concepts 
 
-### In this section, I am gathering a list of DevOps-related concepts, int order to deepen on them gradually.
+### In this section, I am gathering a list of DevOps-related concepts, in order to deepen on them gradually.
 
 #### General
 
-- [ ] DepOps
+- [ ] DevOps
 - [ ] Extreme Programming
 
 #### Methodologies
