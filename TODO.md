@@ -1,6 +1,5 @@
-# TO-DO list
+# TO-DO list 
 
-- [ ] Update initial docs
-- [ ] Look into licences for projects
-- [ ] Keep on updating it
-- [ ] Local development environment automation project
+https://opensource.guide/
+https://help.github.com/articles/licensing-a-repository/
+https://choosealicense.com/
